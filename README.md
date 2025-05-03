@@ -1,7 +1,7 @@
 ---
 title: HtmlToMarkdown
-emoji: 🏆
-colorFrom: red
+emoji: 📝
+colorFrom: green
 colorTo: indigo
 sdk: gradio
 sdk_version: 5.29.0
